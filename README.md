@@ -84,7 +84,8 @@ if (num == 12) {
 console.log("Dezembro")
 }
 }
-numMeses(7)*/
+numMeses(7)
+*/
 //questao 5
 /*
 function numeros(num1,num2, callback)
